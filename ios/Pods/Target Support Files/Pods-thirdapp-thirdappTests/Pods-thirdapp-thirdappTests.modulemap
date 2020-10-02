@@ -1,0 +1,6 @@
+module Pods_thirdapp_thirdappTests {
+  umbrella header "Pods-thirdapp-thirdappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

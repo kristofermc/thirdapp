@@ -1,0 +1,6 @@
+module Pods_thirdapp {
+  umbrella header "Pods-thirdapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
